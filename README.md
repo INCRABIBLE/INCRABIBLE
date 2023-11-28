@@ -2,7 +2,7 @@
 - 👀 I’m interested in SEO and what's behind this 'Coding'-Thing 
 - 🌱 I’m currently learning about Website optimization
 - 💞️ I’m looking to collaborate on SEO
-- 📫 How to reach me : via email, since i have a little child. incrabible@outlook.com
+- 📫 How to reach me : on my website www.incrabible.com or via email, since i have a little child. incrabible@outlook.com 
 
 <!---
 INCRABIBLE/INCRABIBLE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
